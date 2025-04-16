@@ -1,0 +1,12 @@
+.bcolor{
+    background-color: rgba(85, 209, 217, 1);
+}
+
+.inner{
+    background-color: rgba(245, 245, 245, 0.2);
+    border-radius: 36px;
+}
+
+.iheight{
+    height: 98%;
+}
